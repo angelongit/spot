@@ -1,4 +1,4 @@
-## background ##
+# Background
 
 The project started as a solution to a problem I’ve had in the gym for a while. When lifting, I have a hard time accurately counting the number of repetitions I am performing due to focusing on the actual movement. This can become a problem when I’m trying to measure progress, so I started thinking about possible solutions.
 
