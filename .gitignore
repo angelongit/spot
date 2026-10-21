@@ -1,0 +1,19 @@
+# Videos are never committed (size and privacy)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+*.MP4
+*.MOV
+
+# Office lock files and OS clutter
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
